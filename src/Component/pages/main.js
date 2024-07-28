@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import '../styles.css';
 import QRCode from 'react-qr-code';
 
+// npm run deploy
+
 const MainPage = () => {
     const [text, setText] = useState('');
 
