@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Arial, sans-serif';
+}
+
+/* Fonts */
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(fonts/Rubik/Rubik-Bold.ttf)
+}
+
+@font-face {
+    font-family: 'Rubik-Light';
+    src: url(fonts/Rubik/Rubik-LightItalic.ttf)
+}
+
+/* Main Page */
+
+.header1 {
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Rubik';
+    font-size: 60px;
+}
+
+.sectionCon {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.secCon1, .secCon2 {
+    flex: 1;
+    min-width: 300px;
+    margin: 20px;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+.secCon1{
+    margin-bottom: -20px;
+}
+
+.text-input {
+    margin-bottom: 20px;
+}
+
+.text-input p {
+    margin: 0;
+    font-size: 18px;
+    color: #555;
+    font-family: 'Rubik-Light';
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.text-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.qr-code {
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    .sectionCon {
+        flex-direction: column;
+    }
+}
