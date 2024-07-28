@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/QR-Generator/static/css/main.f10abcfa.css",
+    "main.js": "/QR-Generator/static/js/main.19f2659c.js",
+    "static/js/453.ab05d08f.chunk.js": "/QR-Generator/static/js/453.ab05d08f.chunk.js",
+    "static/media/Rubik-Bold.ttf": "/QR-Generator/static/media/Rubik-Bold.c934eb22c2c69992b34c.ttf",
+    "static/media/Rubik-LightItalic.ttf": "/QR-Generator/static/media/Rubik-LightItalic.eddc6610fb077c6d999f.ttf",
+    "index.html": "/QR-Generator/index.html",
+    "main.f10abcfa.css.map": "/QR-Generator/static/css/main.f10abcfa.css.map",
+    "main.19f2659c.js.map": "/QR-Generator/static/js/main.19f2659c.js.map",
+    "453.ab05d08f.chunk.js.map": "/QR-Generator/static/js/453.ab05d08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10abcfa.css",
+    "static/js/main.19f2659c.js"
+  ]
+}
